@@ -11,7 +11,7 @@ Explore o mundo ao seu redor com nossa API de clima, uma ferramenta poderosa par
 - Integração com JavaScript e API
 
 <div align="center">
-<img src="https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/e0dea01b-bd2a-4e64-82e9-70cca289d15b" width="500px" height="500px"/>
+<img src="https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/e0dea01b-bd2a-4e64-82e9-70cca289d15b" width="500px" height="400px"/>
 </div>
 
 ## Motivação:
@@ -21,3 +21,7 @@ Com as mudanças cada vez mais perceptíveis no clima e no ambiente ao nosso red
 1. O usuário deverá selecionar o local no input na margem superior esquerda.
 2. O usuário deverá clicar no botão para obter as informações.
 3. O local será exibido junto com as informações climáticas desse local.
+
+## Site da API
+OpenWeather:
+https://openweathermap.org/
