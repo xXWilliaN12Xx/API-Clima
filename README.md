@@ -18,8 +18,13 @@ Com as mudanças cada vez mais perceptíveis no clima e no ambiente ao nosso red
 
 ## Como se usa? 
 1. O usuário deverá selecionar o local no input na margem superior esquerda.
-2. O usuário deverá clicar no botão para obter as informações.
+
+2. O usuário deverá clicar no botão
+para obter as informações.
+
 3. O local será exibido junto com as informações climáticas desse local.
+
+---
 
 ## Site da API
 OpenWeather:
