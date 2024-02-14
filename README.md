@@ -1,31 +1,34 @@
-# API Clima
+# weather API
 
-## Introdução
-Explore o mundo ao seu redor com nossa API de clima, uma ferramenta poderosa para integrar informações meteorológicas. Com acesso a dados precisos e em tempo real, você pode oferecer aos seus usuários insights valiosos sobre as condições climáticas locais e globais. Seja para ajudar os viajantes a planejar suas jornadas, auxiliar agricultores a gerenciar suas colheitas ou simplesmente manter as pessoas informadas sobre as mudanças climáticas, nossa API é a sua solução confiável para todas as necessidades relacionadas ao clima.
+## Introduction
+Explore the world around you with our Weather API, a powerful tool for integrating weather information. With access to accurate, real-time data, you can provide your users with valuable insights into local and global weather conditions. Whether it's helping travelers plan their journeys, helping farmers manage their crops, or simply keeping people informed about climate change, our API is your trusted solution for all your weather-related needs.
 
-## Topicos:
-- Introdução
-- Criação do site
-- Estilização do site
-- Integração com JavaScript e API
+## Topics:
+
+- Introduction
+- Website creation
+- Website styling
+- Integration with JavaScript and API
 
 <div align="center">
 <img src="https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/e0dea01b-bd2a-4e64-82e9-70cca289d15b" width="500px" height="400px"/>
 </div>
 
-## Motivação:
-Com as mudanças cada vez mais perceptíveis no clima e no ambiente ao nosso redor, juntamente com as implicações que isso tem para a natureza, torna-se cada vez mais importante ter um conhecimento preciso e atualizado sobre as condições climáticas. Este entendimento vai além da simples previsão do tempo: envolve uma compreensão mais profunda e abrangente das tendências climáticas e dos padrões meteorológicos. Diante disso, surgiu a ideia de criar um projeto focado no clima.
+## Motivation:
 
-## Como se usa? 
-1. O usuário deverá selecionar o local no input na margem superior esquerda.
+With increasingly noticeable changes in the climate and environment around us, along with the implications this has for nature, it becomes increasingly important to have accurate and up-to-date knowledge of climate conditions. This understanding goes beyond simple weather forecasting: it involves a deeper and more comprehensive understanding of climate trends and weather patterns. Given this, the idea of ​​creating a project focused on climate came up.
 
-2. O usuário deverá clicar no botão
-para obter as informações.
+## How to use? 
 
-3. O local será exibido junto com as informações climáticas desse local.
+1. The user must select the location in the input in the upper left margin.
+
+2. The user must click on the button
+to get the information.
+
+3. The location will be displayed along with the weather information for that location.
 
 ---
 
-## Site da API
+## API website:
 OpenWeather:
 https://openweathermap.org/
