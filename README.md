@@ -10,9 +10,8 @@ Explore the world around you with our Weather API, a powerful tool for integrati
 - Website styling
 - Integration with JavaScript and API
 
-<div align="center">
-<img src="https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/e0dea01b-bd2a-4e64-82e9-70cca289d15b" width="500px" height="400px"/>
-</div>
+![SAVE_20240214_205931](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/4fa9ee16-446b-4de6-a7e8-bbdb0b592ca0)
+
 
 ## Motivation:
 
