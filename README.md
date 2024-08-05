@@ -36,11 +36,14 @@ With increasingly noticeable changes in the climate and environment around us, a
 
 </div>
 
-## 3. The location will be displayed along with the weather information for that location.
+<div align="center">
+
+3.The location will be displayed along with the weather information for that location.
 ![SAVE_20240214_204654](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/c566cef8-1b82-429c-9968-b84f88a2a626)
+
+</div>
 
 ---
 
-## API website:
-OpenWeather:
-https://openweathermap.org/
+### API website
+OpenWeather (https://openweathermap.org/)
