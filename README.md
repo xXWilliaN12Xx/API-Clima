@@ -12,15 +12,22 @@ Explore the world around you with our Weather API, a powerful tool for integrati
 
 ![SAVE_20240214_205931](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/4fa9ee16-446b-4de6-a7e8-bbdb0b592ca0)
 
+<div align="center">
 
 ## Motivation:
 
 With increasingly noticeable changes in the climate and environment around us, along with the implications this has for nature, it becomes increasingly important to have accurate and up-to-date knowledge of climate conditions. This understanding goes beyond simple weather forecasting: it involves a deeper and more comprehensive understanding of climate trends and weather patterns. Given this, the idea of ​​creating a project focused on climate came up.
 
-## How to use? 
+</div>
 
-## 1. The user must select the location in the input in the upper left margin.
+<div align="center">
+
+### How to use? 
+
+1.The user must select the location in the input in the upper left margin.
 ![SAVE_20240214_204647](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/32e6e2e9-0f01-49bf-9ec6-85755435d18a)
+
+</div>
 
 ## 2. The user must click on the button to get the information.
 ![SAVE_20240214_204651](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/a0eb9515-14b1-4838-b44c-2dd2d5da6a02)
