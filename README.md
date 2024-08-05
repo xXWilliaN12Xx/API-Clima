@@ -29,8 +29,12 @@ With increasingly noticeable changes in the climate and environment around us, a
 
 </div>
 
-## 2. The user must click on the button to get the information.
+<div align="center">
+
+2.The user must click on the button to get the information.
 ![SAVE_20240214_204651](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/a0eb9515-14b1-4838-b44c-2dd2d5da6a02)
+
+</div>
 
 ## 3. The location will be displayed along with the weather information for that location.
 ![SAVE_20240214_204654](https://github.com/xXWilliaN12Xx/API-Clima/assets/158328639/c566cef8-1b82-429c-9968-b84f88a2a626)
